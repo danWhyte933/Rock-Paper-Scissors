@@ -7,7 +7,7 @@ function playRound(playerSelection, computerSelection) {
     console.log("Player says " + answer);
 
     console.log("Computer says " + computerSelection);
-    
+    // inputs
   }
   
   const myArray = ["Rock", "Paper", "Scissors"];
